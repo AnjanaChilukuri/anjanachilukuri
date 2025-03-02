@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 
 - 🔭 Currently pursuing Computer Science Engineering at AVN Institute of Engineering & Technology  
-- 🌱 Passionate about solving real-world problemsA
+- 🌱 Passionate about solving real-world problems
 - 💬 Ask me about Python, Web Development, and Machine Learning
 - 📫 How to reach me:anjanachilukuri9894@gmail.com
 - 😄 Pronouns:She/Her 
